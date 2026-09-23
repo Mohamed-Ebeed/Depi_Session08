@@ -1,6 +1,6 @@
 using System;
 
-namespace DEPI_Assignment04
+namespace Depi_Session08
 {
     class Duration
     {
