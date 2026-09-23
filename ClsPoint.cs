@@ -1,6 +1,6 @@
 using System;
 
-namespace DEPI_Assignment04
+namespace Depi_Session08
 {
     // 5 + 6) implementing more than one interface: IComparable (sorting) and ICloneable (cloning)
     class Point3D : IComparable, ICloneable
