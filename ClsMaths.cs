@@ -1,6 +1,6 @@
 using System;
 
-namespace DEPI_Assignment04
+namespace Depi_Session08
 {
     // Step 1 (before modification): instance methods, you had to write:
     //     Maths m = new Maths();
